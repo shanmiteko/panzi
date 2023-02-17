@@ -1,3 +1,10 @@
+# 转盘扫描
+
+```
+npm i
+npm run test <tagid>
+```
+
 <- GET https://app.bilibili.com/x/topic/web/details/top?topic_id=1002996
 
 ```
